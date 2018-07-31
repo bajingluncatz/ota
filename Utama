@@ -356,9 +356,6 @@ http://rr.dens.tv/h/h14/index2.m3u8
 #EXTINF:0,GOLD DIAMOND
 #EXTGRP:Movies
 http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
-#EXTINF:0,HBO
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/210.ts
 #EXTINF:0,HBO Family
 #EXTGRP:Movies
 http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/592.ts
@@ -377,12 +374,15 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:0,RED DIAMOND
 #EXTGRP:Movies
 http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
-#EXTINF:0,SONY TEN 3 HD
-#EXTGRP:Olahraga
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:0,ARIZONA Sports
 #EXTGRP:Olahraga
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-b.m3u8
+#EXTINF:0,ABU DHABI Sports 1
+#EXTGRP:Olahraga
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
+#EXTINF:0,SONY TEN 3 HD
+#EXTGRP:Olahraga
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:0,BT Sport 3
 #EXTGRP:Olahraga
 http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/321.ts
@@ -443,7 +443,7 @@ http://rr.dens.tv/h/h26/index1.m3u8
 #EXTINF:0,True Sport HD 2
 #EXTGRP:Olahraga
 http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/629.ts
-#EXTINF:0,Liga Gojek
+#EXTINF:0,Useesport
 #EXTGRP:Olahraga
 http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/693.ts
 #EXTINF:0,Sky Sport Premiere League
@@ -518,9 +518,6 @@ http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratv
 #EXTINF:0,Super Sport 3
 #EXTGRP:Olahraga
 http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/258.ts
-#EXTINF:0,ABU DHABI Sports 1
-#EXTGRP:Olahraga
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
 #EXTINF:0,Skynet HD
 #EXTGRP:Olahraga
 http://ch.acaratv.net:8888/live/yukemailkeacaratvdapatkanpoint/yukemailkeacaratvdapatkanpoint/679.ts
