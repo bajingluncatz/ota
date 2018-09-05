@@ -1,0 +1,641 @@
+#EXTM3U
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC PEOPLE
+
+http://5.79.87.234:8278/Natgeopeople/playlist.m3u8?tid=12423995&tsum=cdf83cff557ad1b680c21fe5ce0bd500
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+
+http://5.79.87.234:8278/Natgeowild/playlist.m3u8?tid=16818180&tsum=e23a1402c4f6ae252bff1ba33f995795
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+
+http://5.79.87.234:8278/Natgeo/playlist.m3u8?tid=12497416&tsum=a024b79d932a56d1ab573a0624545750
+
+#EXTINF:-1,DISCOVERY
+
+http://5.79.87.234:8278/Discovery/playlist.m3u8?tid=11532398&tsum=fff1396ebcbc9a4f0cf7c15ed0b712f2
+
+#EXTINF:-1,Blue ant extreme
+
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=13056164&tsum=c3182df624b0de28eb9f1ceaf23675da
+
+#EXTINF:-1,Fox HD
+
+http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=14374707&tsum=ef92bbfbc48cbbf9d7451428975e1c6f
+
+#EXTINF:-1,Fox Action
+
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=18707012&tsum=f5e67b3271c692d28603f7b71b636d31
+
+#EXTINF:-1,Fox Movie
+
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12748156&tsum=a933086d75c7936926dd8bfb6bb332a0
+
+#EXTINF:-1,Fox Family
+
+http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=13317744&tsum=e94d02039b59ae009c7bf10280098abc
+
+#EXTINF:-1,Hbo HD
+
+http://103.89.176.45:8278/Hbohd/playlist.m3u8?tid=18260006&tsum=ad6bffc8384102dbc60fb76f1c885290
+
+#EXTINF:-1,Hbo Hits
+
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=14619634&tsum=64ae9ae862cb168ccc5ae2eded115eb6
+
+#EXTINF:-1,Hbo Family
+
+http://5.79.87.234:8278/Hbofamily/playlist.m3u8?tid=13193541&tsum=7f84c313b9ad39b02d0266fd65d7d2e3
+
+#EXTINF:-1,Cinemax
+
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=17466916&tsum=1e77ddd85fd8b0248dec99be33992dce
+
+#EXTINF:-1,History HD
+
+http://5.79.87.234:8278/Historyhd/playlist.m3u8?tid=11619248&tsum=0df3007125de185dcad0e505c4059bea
+
+#EXTINF:-1,Animal Planet
+
+http://5.79.87.234:8278/Animalplanet/playlist.m3u8?tid=18082642&tsum=7da7a33a4203289cfe10de642fc15350
+
+#EXTINF:-1,Nickelodeon
+
+http://5.79.87.234:8278/Nickelodeon/playlist.m3u8?tid=16063217&tsum=ecae186e8ef56e84e685ec6494c1b275
+
+#EXTINF:-1,Disney Jr
+
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1,Disney XD
+
+http://5.79.87.234:8278/Disneyxd/playlist.m3u8?tid=15669857&tsum=e2628e4dd381e75454a07591b348e2ff
+
+#EXTINF:-1,MTV Live
+
+http://50.7.73.90:8278/mtvlive_twn/playlist.m3u8?tid=16303339&tsum=2bee63b993a5593834d090739f746382
+
+#EXTINF:-1,Bein 1
+
+http://212.8.243.195:8278/bein1_pat/playlist.m3u8?tid=13635475&tsum=7e07cf258b94544961eb75e6e83fe6ab
+
+#EXTINF:-1,Bein 2
+
+http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=15009219&tsum=413e6cf1ddcfabeb4aa9840fb99c6cfa
+
+#EXTINF:-1,Bein 3
+
+http://5.79.87.234:8278/bein3_pat/playlist.m3u8?tid=14407763&tsum=812104720ebbfddb04cd5695b3657f2e
+
+#EXTINF:-1,Bein 4
+
+http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=17742803&tsum=8880fa8d986bc7727f0620bd0d59a670
+
+#EXTINF:-1 group-title="Sports",ABU DHABI Sports 1
+
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
+
+#EXTINF:-1 group-title="Sports",ABU DHABI Sports 2
+
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 group-title="Lokal",ADI TV JOGJAKARTA
+
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="News",ALZAZERA ENGLISH
+
+http://rr2.dens.tv/s/s17/index2.m3u8
+
+#EXTINF:-1 group-title="Knowledge",ANIMAL PLANET AIRTEL
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/01.m3u8
+
+#EXTINF:-1 group-title="Kids",ANIMAX HD
+
+http://rr.dens.tv/h/h18/index2.m3u8
+
+#EXTINF:-1 group-title="Kids",ANIPLUS HD
+
+http://rr.dens.tv/h/h02/index2.m3u8
+
+#EXTINF:-1 group-title="News",ANTARA
+
+http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",ANTV
+
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/1024.m3u8?_res_tag_=video
+
+#EXTINF:-1 group-title="Lokal",AREK TV
+
+http://stream1.ninmedia.tv/live/nin-arektv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",ARIZONA Sports
+
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-b.m3u8
+
+#EXTINF:-1 group-title="Sports",ASTRO ARENA
+
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1 group-title="Sports",ASTRO SUPERSports 3 backup
+
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1 group-title="Movie",AVAVA BOLLYWOOD DIAMOND
+
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",AVAVA DIAMOND
+
+rtsp://wowza60.indostreamserver.com:1935/adti/live
+
+#EXTINF:-1 group-title="Variety",AXN HD
+
+http://rr.dens.tv/h/h09/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",B TV
+
+http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",BAY AREA
+
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/index_2328_av-b.m3u8
+
+#EXTINF:-1 group-title="News",Berita SATU
+
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+
+#EXTINF:-1 group-title="News",Berita SATU WORLD
+
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 group-title="News",BERNAMA NEWS CHANNEL
+
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",BIOS TV SURABAYA
+
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",BLACK DIAMOND
+
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",BMW CHANNEL
+
+http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",CAHAYA TV
+
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="News",CCTV 4
+
+http://rr2.dens.tv/s/s19/index2.m3u8
+
+#EXTINF:-1 group-title="Movie",CELESTIAL Movies
+
+http://rr2.dens.tv/s/s33/index1.m3u8
+
+#EXTINF:-1 group-title="Movie",CELESTIAL Movies HD
+
+http://rr2.dens.tv/s/s33/index2.m3u8
+
+#EXTINF:-1 group-title="News",CGTN
+
+http://rr2.dens.tv/s/s20/index2.m3u8
+
+#EXTINF:-1 group-title="News",CHANNEL NEWS ASIA
+
+http://rr.dens.tv/h/h29/index2.m3u8
+
+#EXTINF:-1 group-title="Music",CMC MUSIC
+
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 group-title="News",CNC
+
+http://103.242.13.90:5555/udp/239.4.1.55:10000
+
+#EXTINF:-1 group-title="News",CNN INDONESIA
+
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",COMBAT GO
+
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",CTV BANTEN
+
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
+
+#EXTINF:-1 group-title="News",CTV NEWS LIVE 1
+
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+
+#EXTINF:-1 group-title="News",CTV NEWS LIVE 2
+
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+
+#EXTINF:-1 group-title="Sports",D Sports HD
+
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
+
+#EXTINF:-1 group-title="Kids",DA VINCI Kids
+
+http://rr.dens.tv/h/h01/index1.m3u8
+
+#EXTINF:-1 group-title="Lokal",DAAI TV
+
+http://rr2.dens.tv/s/s13/index2.m3u8
+
+#EXTINF:-1 group-title="Knowledge",DIAMOND EARTH
+
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",DIAMOND Kids
+
+http://wowza60.indostreamserver.com:1935/Kids/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",DIAMOND TV
+
+http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Knowledge",DISCOVERY CHANNEL
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/01.m3u8
+
+#EXTINF:-1 group-title="Knowledge",DISCOVERY TURBO
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/01.m3u8
+
+#EXTINF:-1 group-title="Kids",DISNEY JR ID
+
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1 group-title="Variety",DUBAI ONE
+
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",DUTA TV
+
+http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="News",DW TV
+
+http://rr2.dens.tv/s/s26/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",ELSHINTA TV
+
+http://rr2.dens.tv/s/s10/index2.m3u8
+
+#EXTINF:-1 group-title="News",EURONEWS
+
+http://rr2.dens.tv/s/s15/index2.m3u8
+
+#EXTINF:-1 group-title="News",FAKTA TV
+
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Variety",FOODIE
+
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+
+#EXTINF:-1 group-title="Movie",FOX ACTION Movies HD
+
+http://rr.dens.tv/h/h35/index2.m3u8
+
+#EXTINF:-1 group-title="Variety",FOX CHANNEL HD
+
+http://rr.dens.tv/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="Movie",FOX FAMILY MOVIES HD
+
+http://rr.dens.tv/h/h36/index2.m3u8
+
+#EXTINF:-1 group-title="Variety",FOX LIFE HD
+
+http://rr.dens.tv/h/h03/index2.m3u8
+
+#EXTINF:-1 group-title="Movie",FOX Movies HD
+
+http://rr.dens.tv/h/h34/index2.m3u8
+
+#EXTINF:-1 group-title="Sports",FOX Sports 1 HD
+
+http://rr.dens.tv/h/h31/index2.m3u8
+
+#EXTINF:-1 group-title="Sports",FOX Sports 2 HD
+
+http://rr.dens.tv/h/h32/index2.m3u8
+
+#EXTINF:-1 group-title="Sports",FOX SPORTS 3 HD
+
+http://rr.dens.tv/h/h33/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",GLOBAL TV
+
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8?_res_tag_=video
+
+#EXTINF:-1 group-title="Movie",GOLD DIAMOND
+
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Variety",HOMEandLIVING
+
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1 group-title="News",HONGKONG TV
+
+http://rr2.dens.tv/s/s37/index2.m3u8
+
+#EXTINF:-1 group-title="News",IFENG
+
+http://rr2.dens.tv/s/s21/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",IN TV
+
+http://rr2.dens.tv/s/s46/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",INDOSIAR
+
+http://rr2.dens.tv/s/s04/index2.m3u8
+
+#EXTINF:-1 group-title="News",INEWS TV
+
+https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-1 group-title="News",JAWAPOS TV
+
+rtmp://122.248.32.234:1935/ch6/myStream
+
+#EXTINF:-1 group-title="Lokal",JEK TV JAMBI
+
+http://122.248.32.234:1935/ch14/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",JTV Surabaya
+
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
+
+#EXTINF:-1 group-title="Variety",K DRAMA HD
+
+http://rr2.dens.tv/s/s42/index2.m3u8
+
+#EXTINF:-1 group-title="Variety",K+HD
+
+http://rr.dens.tv/h/h08/index2.m3u8
+
+#EXTINF:-1 group-title="Music",KEENG MUSIC
+
+http://125.235.29.16/livetv/keeng.m3u8
+
+#EXTINF:-1 group-title="Lokal",KITANESIA
+
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Variety",KIX HD
+
+http://rr.dens.tv/h/h07/index2.m3u8
+
+#EXTINF:-1 group-title="Music",KLIK Musik
+
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="News",KOMPAS TV
+
+http://rr2.dens.tv/s/s09/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",LEJEL HOMESHOPPING
+
+http://rr2.dens.tv/s/s42/index2.m3u8
+
+#EXTINF:-1 group-title="Music",MALEO CHANNEL
+
+http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="News",METRO TV
+
+http://rr.dens.tv/h/h05/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",MNC TV
+
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:-1 group-title="News",MYTV
+
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+
+#EXTINF:-1 group-title="Knowledge",NAT GEO WILD HD
+
+http://rr.dens.tv/h/h12/index2.m3u8
+
+#EXTINF:-1 group-title="Knowledge",NATIONAL GEOGRAPHIC HD
+
+http://rr.dens.tv/h/h11/index2.m3u8
+
+#EXTINF:-1 group-title="Knowledge",NATURE VISION
+
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",NEO PRIME
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NEO Sports
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+
+#EXTINF:-1 group-title="Lokal",NET.
+
+http://rr2.dens.tv/s/s08/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",NET.HD
+
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 group-title="News",NEWSMAX
+
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="Sports",NFL NOW
+
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 group-title="News",NHK WORLD
+
+http://rr.dens.tv/h/h23/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",PADANG TV
+
+http://122.248.32.234:1935/ch16/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",RAI Movies HD
+
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 group-title="Lokal",RCTI
+
+https://edge.okezone.com/live/rctioke.m3u8
+
+#EXTINF:-1 group-title="Lokal",RCTV
+
+http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",REAL MADRID TV
+
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 group-title="Sports",RED BULL TV
+
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",RED DIAMOND
+
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+
+#EXTINF:-1 group-title="News",RT HD
+
+https://secure-streams.akamaized.net/rt/index.m3u8
+
+#EXTINF:-1 group-title="News",RTP INTERNATIONAL
+
+http://rr2.dens.tv/s/s38/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",RTV
+
+http://rr2.dens.tv/s/s12/index2.m3u8
+
+#EXTINF:-1 group-title="Variety",S ONE HD
+
+http://rr.dens.tv/h/h13/index2.m3u8
+
+#EXTINF:-1 group-title="Movie",SALURAN FILM INDONESIA
+
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",SALURAN Musik INDONESIA
+
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Variety",SBS IN HD
+
+http://rr.dens.tv/h/h28/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",SCTV
+
+http://rr2.dens.tv/s/s03/index2.m3u8
+
+#EXTINF:-1 group-title="News",SKY NEWS
+
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 group-title="Variety",SONY CHANNEL HD
+
+http://rr.dens.tv/h/h06/index2.m3u8
+
+#EXTINF:-1 group-title="Movie",SONY LE PLEX
+
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/01.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY SIX
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 1
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 1 HD
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 2
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 2 HD
+
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 3
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 3 HD
+
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT ITALIA
+
+http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8
+
+#EXTINF:-1 group-title="Lokal",STARBRIDGE TV
+
+http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Lokal",TABALONG TV
+
+http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie",THRILL HD
+
+http://rr2.dens.tv/s/s34/index2.m3u8
+
+#EXTINF:-1 group-title="Variety",TLC
+
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/01.m3u8
+
+#EXTINF:-1 group-title="Lokal",TRANS 7
+
+http://rr2.dens.tv/s/s06/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",TRANS TV
+
+http://rr2.dens.tv/s/s05/index2.m3u8
+
+#EXTINF:-1 group-title="News",TV5MONDE
+
+http://rr2.dens.tv/s/s24/index2.m3u8
+
+#EXTINF:-1 group-title="Sports",TVA SPORT
+
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
+
+#EXTINF:-1 group-title="News",TVE ESPANOLA
+
+http://rr2.dens.tv/s/s25/index2.m3u8
+
+#EXTINF:-1 group-title="News",TVONE
+
+http://rr2.dens.tv/s/s02/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",TVRI
+
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="Lokal",TVRI KALSEL
+
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1 group-title="Lokal",TVRI KALTENG
+
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TVRI SPORT HD
+
+http://rr2.dens.tv/s/s48/index2.m3u8
+
+#EXTINF:-1 group-title="Lokal",U CHANNEL (ROHANI KRISTEN)
+
+http://rr2.dens.tv/s/s41/index2.m3u8
+
+#EXTINF:-1 group-title="Movie",ZEE BIOSKOP HD
+
+http://rr2.dens.tv/s/s32/index2.m3u8</textarea>
+
+#EXTINF:-1 group-title="Music",SKY SPORTS EPL
+
+http://212.8.243.195:8278/tiankongepl_pat/playlist.m3u8?tid=16282504&tsum=121f6f47d57a25e0b02005bce6fda918
