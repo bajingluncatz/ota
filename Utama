@@ -1,763 +1,125 @@
 #EXTM3U
-#EXTINF:0,ADI TV JOGJAKARTA
-#EXTGRP:Lokal
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:0,ANTV
-#EXTGRP:Lokal
-http://edge.telin.swiftserve.com/live/LiveOONA/antv-fa161aa74311/playlist.m3u8
-#EXTINF:0,B TV
-#EXTGRP:Lokal
-http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
-#EXTINF:0,AREK TV
-#EXTGRP:Lokal
-http://stream1.ninmedia.tv/live/nin-arektv.stream_nin/playlist.m3u8
-#EXTINF:0,BALI TV
-#EXTGRP:Lokal
-http://edge.telin.swiftserve.com/live/LiveOONA/balitv-0e3e49d9f128/playlist.m3u8
-#EXTINF:0,BANDUNG TV
-#EXTGRP:Lokal
-http://edge.telin.swiftserve.com/live/LiveOONA/bandungtv-dbaa8f1d8081/playlist.m3u8
-#EXTINF:0,BIOS TV SURABAYA
-#EXTGRP:Lokal
-http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-#EXTINF:0,BMW CHANNEL
-#EXTGRP:Lokal
-http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
-#EXTINF:0,CAHAYA TV
-#EXTGRP:Lokal
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:0,COMBAT GO
-#EXTGRP:Lokal
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:0,CTV BANTEN
-#EXTGRP:Lokal
-http://103.23.201.170:1935/live/livestream/lihattv.m3u8
-#EXTINF:0,DUTA TV
-#EXTGRP:Lokal
-http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-#EXTINF:0,ELSHINTA TV
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s10/index2.m3u8
-#EXTINF:0,GLOBAL TV
-#EXTGRP:Lokal
-https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
-#EXTINF:0,IN TV
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s46/index2.m3u8
-#EXTINF:0,INDOSIAR
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s04/index2.m3u8
-#EXTINF:0,JAKTV
-#EXTGRP:Lokal
-http://edge.telin.swiftserve.com/live/LiveOONA/jaktv-804bbe1fd935/playlist.m3u8
-#EXTINF:0,JEK TV JAMBI
-#EXTGRP:Lokal
-http://122.248.32.234:1935/ch14/myStream/playlist.m3u8
-#EXTINF:0,KITANESIA
-#EXTGRP:Lokal
-http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
-#EXTINF:0,MNC TV
-#EXTGRP:Lokal
-https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:0,MYTV
-#EXTGRP:Lokal
-http://103.242.13.90:5555/udp/239.4.1.56:10000
-#EXTINF:0,NET.
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s08/index2.m3u8
-#EXTINF:0,NET.HD
-#EXTGRP:Lokal
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:0,PADANG TV
-#EXTGRP:Lokal
-http://122.248.32.234:1935/ch16/myStream/playlist.m3u8
-#EXTINF:0,RADAR TV
-#EXTGRP:Lokal
-http://122.248.32.234:1935/ch17/myStream/playlist.m3u8
-#EXTINF:0,RCTI
-#EXTGRP:Lokal
-https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:0,RCTV
-#EXTGRP:Lokal
-http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
-#EXTINF:0,RIAU TV
-#EXTGRP:Lokal
-http://122.248.32.234:1935/ch4/myStream/playlist.m3u8
-#EXTINF:0,RTV
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s12/index.m3u8
-#EXTINF:0,SALING SAPA
-#EXTGRP:Lokal
-http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
-#EXTINF:0,SCTV
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s03/index2.m3u8
-#EXTINF:0,STARBRIDGE TV
-#EXTGRP:Lokal
-http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
-#EXTINF:0,TABALONG TV
-#EXTGRP:Lokal
-http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
-#EXTINF:0,TRANS 7
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s06/index2.m3u8
-#EXTINF:0,TRANS TV
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s05/index2.m3u8
-#EXTINF:0,TVONE
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s02/index2.m3u8
-#EXTINF:0,TVRI
-#EXTGRP:Lokal
-http://rr2.dens.tv/s/s11/index2.m3u8
-#EXTINF:0,TVRI KALSEL
-#EXTGRP:Lokal
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-#EXTINF:0,TVRI KALTENG
-#EXTGRP:Lokal
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:0,DUCK TV
-#EXTGRP:Anak
-http://edge.telin.swiftserve.com/live/LiveOONA/duck-6f5692c572210/chunklist.m3u8
-#EXTINF:0,PBS Kids
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/523.ts
-#EXTINF:0,Nick Jr
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/522.ts
-#EXTINF:0,DA VINCI Kids
-#EXTGRP:Anak
-http://rr.dens.tv/h/h01/index1.m3u8
-#EXTINF:0,Boomerang
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/305.ts
-#EXTINF:0,My Kids
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/16.ts
-#EXTINF:0,Nick Toons
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/335.ts
-#EXTINF:0,ANIMAX
-#EXTGRP:Anak
-http://rr.dens.tv/h/h18/index1.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/252.ts
-#EXTINF:0,Spacetoon
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/59.ts
-#EXTINF:0,BIZNET Kids
-#EXTGRP:Anak
-http://livestream.biznetvideo.net/biznet_Kids/_definst_/stream_Kids/playlist.m3u8?tokenbiznetlivestarttime=0&amp;tokenbiznetliveendtime=0&amp;tokenbiznetliveCustomParameter=myParameter&amp;tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
-#EXTINF:0,ANIPLUS HD
-#EXTGRP:Anak
-http://rr.dens.tv/h/h02/index2.m3u8
-#EXTINF:0,ANIMAX HD
-#EXTGRP:Anak
-http://rr.dens.tv/h/h18/index2.m3u8
-#EXTINF:0,ANIPLUS
-#EXTGRP:Anak
-http://rr.dens.tv/h/h02/index2.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/214.ts
-#EXTINF:0,Disney XD Malaysia
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/701.ts
-#EXTINF:0,Disney XD
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/104.ts
-#EXTINF:0,Disney Channel ID
-#EXTGRP:Anak
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/306.ts
-#EXTINF:0,tvN Malaysia
-#EXTGRP:Hiburan
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/697.ts
-#EXTINF:0,TLC
-#EXTGRP:Hiburan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/01.m3u8
-#EXTINF:0,USEE PRIME
-#EXTGRP:Hiburan
-http://edge.telin.swiftserve.com/live/LiveOONA/useeprime-d4675f3da776/playlist.m3u8
-#EXTINF:0,ANIMAL PLANET
-#EXTGRP:Hiburan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/01.m3u8
-#EXTINF:0,AXN HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h09/index2.m3u8
-#EXTINF:0,AXN
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h09/index1.m3u8
-#EXTINF:0,DIAMOND EARTH
-#EXTGRP:Hiburan
-http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
-#EXTINF:0,DIAMOND Kids
-#EXTGRP:Hiburan
-http://wowza60.indostreamserver.com:1935/Kids/live/playlist.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-#EXTGRP:Hiburan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/01.m3u8
-#EXTINF:0,DISCOVERY TURBO
-#EXTGRP:Hiburan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/01.m3u8
-#EXTINF:0,Diva
-#EXTGRP:Hiburan
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/699.ts
-#EXTINF:0,DRAMA FEVER
-#EXTGRP:Hiburan
-http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&amp;deviceMake=&amp;deviceModel=&amp;sid=6&amp;deviceId=&amp;deviceVersion=&amp;appVersion=&amp;deviceDNT=0&amp;userId=&amp;advertisingId=&amp;deviceLat=&amp;deviceLon=-&amp;app_name=&amp;appName=&amp;appStoreUrl=&amp;profileLimit=high
-#EXTINF:0,DUBAI ONE
-#EXTGRP:Hiburan
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:0,FASHION TV
-#EXTGRP:Hiburan
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/index.m3u8
-#EXTINF:0,FOODIE
-#EXTGRP:Hiburan
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
-#EXTINF:0,FOX CHANNEL
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h04/index1.m3u8
-#EXTINF:0,FOX CHANNEL HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h04/index2.m3u8
-#EXTINF:0,FOX LIFE
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h03/index2.m3u8
-#EXTINF:0,FOX LIFE HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h03/index2.m3u8
-#EXTINF:0,HISTORY
-#EXTGRP:Hiburan
-http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
-#EXTINF:0,History ID
-#EXTGRP:Hiburan
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/718.ts
-#EXTINF:0,HOME&amp;LIVING
-#EXTGRP:Hiburan
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:0,K DRAMA
-#EXTGRP:Hiburan
-http://rr2.dens.tv/s/s42/index1.m3u8
-#EXTINF:0,K DRAMA HD
-#EXTGRP:Hiburan
-http://rr2.dens.tv/s/s42/index2.m3u8
-#EXTINF:0,K+
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h08/index1.m3u8
-#EXTINF:0,K+HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:0,KIX
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h07/index2.m3u8
-#EXTINF:0,KIX HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h07/index2.m3u8
-#EXTINF:0,LEJEL HOMESHOPPING
-#EXTGRP:Hiburan
-http://rr2.dens.tv/s/s42/index2.m3u8
-#EXTINF:0,MIAMI TV +18
-#EXTGRP:Hiburan
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0,NAT GEO WILD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h12/index1.m3u8
-#EXTINF:0,NAT GEO WILD HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h12/index2.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h11/index1.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h11/index2.m3u8
-#EXTINF:0,NATURE VISION
-#EXTGRP:Hiburan
-https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:0,S ONE
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h13/index1.m3u8
-#EXTINF:0,S ONE HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h13/index2.m3u8
-#EXTINF:0,SBS
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h28/index1.m3u8
-#EXTINF:0,SBS IN HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h28/index2.m3u8
-#EXTINF:0,SONY CHANNEL
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h06/index1.m3u8
-#EXTINF:0,SONY CHANNEL HD
-#EXTGRP:Hiburan
-http://rr.dens.tv/h/h06/index2.m3u8
-#EXTINF:0,Star Gold HD
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/384.ts
-#EXTINF:0,SALURAN FILM INDONESIA
-#EXTGRP:Movies
-http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
-#EXTINF:0,THRILL
-#EXTGRP:Movies
-http://rr2.dens.tv/s/s34/index1.m3u8
-#EXTINF:0,ZEE BIOSKOP
-#EXTGRP:Movies
-http://rr2.dens.tv/s/s32/index1.m3u8
-#EXTINF:0,Star World
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/381.ts
-#EXTINF:0,THRILL HD
-#EXTGRP:Movies
-http://rr2.dens.tv/s/s34/index2.m3u8
-#EXTINF:0,ZEE BIOSKOP HD
-#EXTGRP:Movies
-http://rr2.dens.tv/s/s32/index2.m3u8</textarea>
-#EXTINF:0,SONY LE PLEX HD
-#EXTGRP:Movies
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/01.m3u8
-#EXTINF:0,24/7 SUPERHERO Movies
-#EXTGRP:Movies
-http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
-#EXTINF:0,AVAVA BOLLYWOOD DIAMOND
-#EXTGRP:Movies
-http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:0,AVAVA DIAMOND
-#EXTGRP:Movies
-rtsp://wowza60.indostreamserver.com:1935/adti/live
-#EXTINF:0,BLACK DIAMOND
-#EXTGRP:Movies
-http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
-#EXTINF:0,CELESTIAL Movies
-#EXTGRP:Movies
-http://rr2.dens.tv/s/s33/index1.m3u8
-#EXTINF:0,CELESTIAL Movies HD
-#EXTGRP:Movies
-http://rr2.dens.tv/s/s33/index2.m3u8
-#EXTINF:0,Cinemax
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/593.ts
-#EXTINF:0,DIAMOND TV
-#EXTGRP:Movies
-http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
-#EXTINF:0,FOX ACTION Movies
-#EXTGRP:Movies
-http://rr.dens.tv/h/h15/index1.m3u8
-#EXTINF:0,FOX ACTION Movies HD
-#EXTGRP:Movies
-http://rr.dens.tv/h/h15/index2.m3u8
-#EXTINF:0,FOX Movies
-#EXTGRP:Movies
-http://rr.dens.tv/h/h14/index1.m3u8
-#EXTINF:0,FOX Movies HD
-#EXTGRP:Movies
-http://rr.dens.tv/h/h14/index2.m3u8
-#EXTINF:0,GOLD DIAMOND
-#EXTGRP:Movies
-http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
-#EXTINF:0,HBO Family
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/592.ts
-#EXTINF:0,HBO HD
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/210.ts
-#EXTINF:0,HBO Hits
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/591.ts
-#EXTINF:0,HBO Signature
-#EXTGRP:Movies
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/405.ts
-#EXTINF:0,RAI Movies HD
-#EXTGRP:Movies
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0,RED DIAMOND
-#EXTGRP:Movies
-http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
-#EXTINF:0,ARIZONA Sports
-#EXTGRP:Olahraga
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-b.m3u8
-#EXTINF:0,ABU DHABI Sports 1
-#EXTGRP:Olahraga
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=2734522597
-#EXTINF:0,SONY TEN 3 HD
-#EXTGRP:Olahraga
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:0,BT Sport 3
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/321.ts
-#EXTINF:0,Skynet Sport 2
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/682.ts
-#EXTINF:0,TVA SPORT
-#EXTGRP:Olahraga
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
-#EXTINF:0,Skynet Sport 6
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/686.ts
-#EXTINF:0,SONY SIX
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:0,Sky Sport Football
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/477.ts
-#EXTINF:0,BT Sport 1
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/319.ts
-#EXTINF:0,SONY TEN 1
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
-#EXTINF:0,Skynet Sport 4
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/684.ts
-#EXTINF:0,Skynet Sport 5
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/685.ts
-#EXTINF:0,Sky Sport F1
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/415.ts
-#EXTINF:0,SONY TEN 3
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8
-#EXTINF:0,CTV NEWS LIVE 2
-#EXTGRP:Olahraga
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:0,Super Sport 1
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/256.ts
-#EXTINF:0,RIYADH SPORT
-#EXTGRP:Olahraga
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel4/Index1400.m3u8
-#EXTINF:0,True Sport HD
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/628.ts
-#EXTINF:0,NFL NOW
-#EXTGRP:Olahraga
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:0,REAL MADRID TV
-#EXTGRP:Olahraga
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:0,FOX Sports 3
-#EXTGRP:Olahraga
-http://rr.dens.tv/h/h26/index1.m3u8
-#EXTINF:0,True Sport HD 2
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/629.ts
-#EXTINF:0,Useesport
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/693.ts
-#EXTINF:0,Sky Sport Premiere League
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/317.ts
-#EXTINF:0,Super Sport 4
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/259.ts
-#EXTINF:0,Box Nation
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/499.ts
-#EXTINF:0,Sky Sport Arena
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/476.ts
-#EXTINF:0,BT Sport 2
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/320.ts
-#EXTINF:0,ABU DHABI Sports 2
-#EXTGRP:Olahraga
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0,SONY TEN 1 HD
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0,FOX Sports 2 HD
-#EXTGRP:Olahraga
-http://rr.dens.tv/h/h20/index2.m3u8
-#EXTINF:0,NEO PRIME
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:0,RAI SPORT HD
-#EXTGRP:Olahraga
-https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,ASTRO SUPERSports 3
-#EXTGRP:Olahraga
-http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:0,ASTRO ARENA
-#EXTGRP:Olahraga
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:0,Skynet Sport 3
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/683.ts
-#EXTINF:0,CTV NEWS LIVE 1
-#EXTGRP:Olahraga
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:0,RED BULL TV
-#EXTGRP:Olahraga
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:0,Skynet Sport 1
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/681.ts
-#EXTINF:0,NEO Sports
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:0,SONY TEN 2
-#EXTGRP:Olahraga
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:0,SPORT ITALIA
-#EXTGRP:Olahraga
-http://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-DE_e-885278_i-5484528720171217122906_k-_q-_t-hds/sportitalia247_1@5383/index_1200_av-p.m3u8
-#EXTINF:0,WWE Network
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/299.ts
-#EXTINF:0,MU TV
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/400.ts
-#EXTINF:0,Super Sport 2
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/257.ts
-#EXTINF:0,NBA TV
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/243.ts
-#EXTINF:0,Super Sport 3
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/258.ts
-#EXTINF:0,Skynet HD
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/679.ts
-#EXTINF:0,Chelsea TV
-#EXTGRP:Olahraga
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/242.ts
-#EXTINF:0,D Sports HD
-#EXTGRP:Olahraga
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:0,FOX Sports 1
-#EXTGRP:Olahraga
-http://rr.dens.tv/h/h19/index1.m3u8
-#EXTINF:0,FOX Sports 1 HD
-#EXTGRP:Olahraga
-http://rr.dens.tv/h/h19/index2.m3u8
-#EXTINF:0,FOX Sports 2
-#EXTGRP:Olahraga
-http://rr.dens.tv/h/h20/index1.m3u8
-#EXTINF:0,DUBAI SPORT
-#EXTGRP:Olahraga
-http://dmiftvll.mangomolo.com/dubaiSportshd/smil:dubaiSportshd.smil/chunklist_b2000000.m3u8
-#EXTINF:0,IMPACT WRESTLING
-#EXTGRP:Olahraga
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&amp;deviceMake=&amp;deviceModel=&amp;sid=7&amp;deviceId=-&amp;deviceVersion=&amp;appVersion=&amp;deviceDNT=&amp;userId=&amp;advertisingId=&amp;deviceLat=&amp;deviceLon=-&amp;app_name=&amp;appName=&amp;appStoreUrl=&amp;profileLimit=high
-#EXTINF:0,SONY TEN 2 HD
-#EXTGRP:Olahraga
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0,ALZAZERA ENGLISH
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s17/index2.m3u8
-#EXTINF:0,NEWSMAX
-#EXTGRP:Berita
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0,CCTV 4
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s19/index2.m3u8
-#EXTINF:0,RT HD
-#EXTGRP:Berita
-https://secure-streams.akamaized.net/rt/index.m3u8
-#EXTINF:0,NHK WORLD
-#EXTGRP:Berita
-http://rr.dens.tv/h/h23/index2.m3u8
-#EXTINF:0,JAWAPOS TV
-#EXTGRP:Berita
-rtmp://122.248.32.234:1935/ch6/myStream
-#EXTINF:0,TVRI SPORT HD
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s48/index2.m3u8
-#EXTINF:0,TV5MONDE
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s24/index2.m3u8
-#EXTINF:0,SKY NEWS
-#EXTGRP:Berita
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0,Berita SATU WORLD
-#EXTGRP:Berita
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:0,CGTN
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s20/index2.m3u8
-#EXTINF:0,Berita SATU
-#EXTGRP:Berita
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
-#EXTINF:0,BAY AREA
-#EXTGRP:Berita
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/index_2328_av-b.m3u8
-#EXTINF:0,KOMPAS TV
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s09/index2.m3u8
-#EXTINF:0,METRO TV
-#EXTGRP:Berita
-http://rr.dens.tv/h/h05/index2.m3u8
-#EXTINF:0,CNN INDONESIA
-#EXTGRP:Berita
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0,BERNAMA NEWS CHANNEL
-#EXTGRP:Berita
-http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-#EXTINF:0,Cinemax Action
-#EXTGRP:Berita
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/448.ts
-#EXTINF:0,ANTARA
-#EXTGRP:Berita
-http://edge.telin.swiftserve.com/live/LiveOONA/antara-da5a865f3284/playlist.m3u8
-#EXTINF:0,CHANNEL NEWS ASIA
-#EXTGRP:Berita
-http://rr.dens.tv/h/h29/index2.m3u8
-#EXTINF:0,DW TV
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s26/index2.m3u8
-#EXTINF:0,EURONEWS
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s15/index2.m3u8
-#EXTINF:0,FAKTA TV
-#EXTGRP:Berita
-http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
-#EXTINF:0,INEWS TV
-#EXTGRP:Berita
-https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
-#EXTINF:0,IFENG
-#EXTGRP:Berita
-http://rr2.dens.tv/s/s21/index2.m3u8
-#EXTINF:0,KEENG MUSIC
-#EXTGRP:Musik
-http://125.235.29.16/livetv/keeng.m3u8
-#EXTINF:0,MUZIK AKTIF
-#EXTGRP:Musik
-http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
-#EXTINF:0,SALURAN Musik INDONESIA
-#EXTGRP:Musik
-http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
-#EXTINF:0,MALEO CHANNEL
-#EXTGRP:Musik
-http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
-#EXTINF:0,KRALPOP DANCE
-#EXTGRP:Musik
-https://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist_b2328000.m3u8
-#EXTINF:0,CMC
-#EXTGRP:Musik
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0,DANGDUTZ CHANNEL
-#EXTGRP:Musik
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:0,COUNTRY NETWORK
-#EXTGRP:Musik
-http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
-#EXTINF:0,MUSIC CHOICE PLAY
-#EXTGRP:Musik
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0,KLIK Musik
-#EXTGRP:Musik
-http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
-#EXTINF:0,HIT TV
-#EXTGRP:Musik
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:0,M20
-#EXTGRP:Musik
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0,SOUND EMERGE
-#EXTGRP:Musik
-http://bcoveliveios-i.akamaihd.net/hls/live/632425/5725327446001_03/soundemerge_simultv/chunklist.m3u8
-#EXTINF:0,CAPITAL TV
-#EXTGRP:Musik
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:0,B4U
-#EXTGRP:Musik
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w150564584.m3u8
-#EXTINF:0,HEART TV HD
-#EXTGRP:Musik
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:0,U CHANNEL (ROHANI KRISTEN)
-#EXTGRP:Religi
-http://rr2.dens.tv/s/s41/index2.m3u8
-#EXTINF:0,TV MEKKAH
-#EXTGRP:Religi
-http://rr2.dens.tv/s/s28/index2.m3u8
-#EXTINF:0,NU CHANNEL
-#EXTGRP:Religi
-http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
-#EXTINF:0,RODJA TV
-#EXTGRP:Religi
-http://edge.telin.swiftserve.com/live/LiveOONA/rodjatv-738132540145/playlist.m3u8
-#EXTINF:0,INSPIRA TV
-#EXTGRP:Religi
-http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
-#EXTINF:0,TV MUHAMMADIYAH
-#EXTGRP:Religi
-http://edge.telin.swiftserve.com/live/LiveOONA/muhammadiyahtv-0340897a3730/playlist.m3u8
-#EXTINF:0,MQTV
-#EXTGRP:Religi
-http://edge.telin.swiftserve.com/live/LiveOONA/mqtv-b581e4ddae23/playlist.m3u8
-#EXTINF:0,INSAN TV
-#EXTGRP:Religi
-http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
-#EXTINF:0,MT@TV
-#EXTGRP:Religi
-http://edge.telin.swiftserve.com/live/LiveOONA/mtatv-6b69d0f5f234/playlist.m3u8
-#EXTINF:0,DAAI TV
-#EXTGRP:Religi
-http://rr2.dens.tv/s/s13/index2.m3u8
-#EXTINF:0,DMI CHANNEL
-#EXTGRP:Religi
-http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
-#EXTINF:0,MEDIACORP CHANNEL U
-#EXTGRP:Manca
-https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
-#EXTINF:0,MEDIACORP CHANNEL 8
-#EXTGRP:Manca
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
-#EXTINF:0,Astro Warna
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/705.ts
-#EXTINF:0,T.V.E
-#EXTGRP:Manca
-http://rr2.dens.tv/s/s25/index2.m3u8
-#EXTINF:0,Astro Box Office Bollyone
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/703.ts
-#EXTINF:0,Astro Ria
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/709.ts
-#EXTINF:0,TVE ESPANOLA
-#EXTGRP:Manca
-http://rr2.dens.tv/s/s25/index2.m3u8
-#EXTINF:0,Astro Ceria
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/713.ts
-#EXTINF:0,Astro Tara HD
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/707.ts
-#EXTINF:0,MEDIACORP CHANNEL 5
-#EXTGRP:Manca
-https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-#EXTINF:0,TV 2
-#EXTGRP:Manca
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:0,RTP INTERNATIONAL
-#EXTGRP:Manca
-http://rr2.dens.tv/s/s38/index2.m3u8
-#EXTINF:0,TV 1
-#EXTGRP:Manca
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:0,Astro Oasis
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/712.ts
-#EXTINF:0,Astro Vinmeen HD
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/706.ts
-#EXTINF:0,Astro Prima
-#EXTGRP:Manca
-http://ch.acaratv.net:8888/live/agustisceriayukdownloadacaratv/agustisceriayukdownloadacaratv/711.ts
-#EXTINF:0,CNC
-#EXTGRP:Manca
-http://103.242.13.90:5555/udp/239.4.1.55:10000
-#EXTINF:0,HONGKONG TV
-#EXTGRP:Manca
-http://rr2.dens.tv/s/s37/index2.m3u8
-#EXTINF:0,MEDIACORP SURIA
-#EXTGRP:Manca
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
-#EXTINF:0,MEDIACORP VASANTHAM
-#EXTGRP:Manca
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/prog_index.m3u8
+#EXTINF:-1,Tv 1
+http://212.8.243.195:8278/TV1/playlist.m3u8?tid=18997825&tsum=101bbf299af12316445f452663a7b517
+#EXTINF:-1,Tv 2
+http://212.8.243.195:8278/TV2/playlist.m3u8?tid=17970840&tsum=1f6fa121bfa89598854dfe33f427d8cc
+#EXTINF:-1,Tv 3
+http://212.8.243.195:8278/TV3/playlist.m3u8?tid=10221823&tsum=d8149b7c468e059eaf996b369314e43d
+#EXTINF:-1,Tv 7
+http://212.8.243.195:8278/NTV7/playlist.m3u8?tid=10308841&tsum=4bfec1c2a4a173f3207a4122466b9f60
+#EXTINF:-1,Tv 8
+http://212.8.243.195:8278/TV8/playlist.m3u8?tid=16221584&tsum=ebb5ced9f6df46649021697998605ec2
+#EXTINF:-1,Tv  9
+http://212.8.243.195:8278/TV9/playlist.m3u8?tid=14611676&tsum=4edf88dd8c9ade3f7fef61e902804abe
+#EXTINF:-1,Ceria
+http://5.79.87.234:8278/Ceria/playlist.m3u8?tid=17177426&tsum=f30ddf8fe513cce4cba885205d096bea
+#EXTINF:-1,Awani
+http://5.79.87.234:8278/Awani/playlist.m3u8?tid=16404096&tsum=d80dc0423c7f7b41a78e92bf06e98924
+#EXTINF:-1,Oasis
+http://212.8.243.195:8278/Oasis/playlist.m3u8?tid=11753634&tsum=f35abaef4aefb9d8fb9a535fcf1d579b
+#EXTINF:-1,Warna
+http://212.8.243.195:8278/Warna/playlist.m3u8?tid=14507859&tsum=0887e3f881bf6a7f975618a41ebb9bd2
+#EXTINF:-1,Ria
+http://212.8.243.195:8278/Ria2/playlist.m3u8?tid=15880393&tsum=cd73478778bcc8c8c0b4881395a3e7c2
+#EXTINF:-1,Citra
+http://212.8.243.195:8278/Citra/playlist.m3u8?tid=13858727&tsum=93c22efd8794b11240a968838d34c434
+#EXTINF:-1,Prima
+http://212.8.243.195:8278/Prima/playlist.m3u8?tid=10357673&tsum=c368845d68b289a745aacda286b7418a
+#EXTINF:-1,Boo
+http://5.79.87.234:8278/Boo/playlist.m3u8?tid=10071962&tsum=0b07c316fd1670bc9c64cb562a5228e4
+#EXTINF:-1,Maya
+http://212.8.243.195:8278/MayaHD123/playlist.m3u8?tid=12718802&tsum=c1f123247504a5750a0a05e4403481f8
+#EXTINF:-1,Mustika
+http://212.8.243.195:8278/MustikaHD123/playlist.m3u8?tid=16074695&tsum=17f12d514ff2009a1991513eff9cbd1f
+#EXTINF:-1,Aec
+http://212.8.243.195:8278/Aec/playlist.m3u8?tid=16846305&tsum=04ddb9e304878ada425bb8dc8dc6ec49
+#EXTINF:-1,Xi yue
+http://5.79.87.234:8278/Xiyue/playlist.m3u8?tid=18534873&tsum=bf930af0901e1396dba4217c394d6385
+#EXTINF:-1,Wah lai toi
+http://5.79.87.234:8278/Wlt/playlist.m3u8?tid=10537398&tsum=9e1562516db5be47ca470c2246190450
+#EXTINF:-1,Hua hee tai
+http://212.8.243.195:8278/Huahee/playlist.m3u8?tid=13051366&tsum=7e4a02a7d6d8dcdb2af3377029be8c77
+#EXTINF:-1,CCM
+http://212.8.243.195:8278/Celestial2/playlist.m3u8?tid=11964851&tsum=46d72d8fb4ea739d9a8427578f68ffd2
+#EXTINF:-1,Shuang xing
+http://212.8.243.195:8278/Shuangxing/playlist.m3u8?tid=17186264&tsum=77952f80fc97a46fe4489a2e7541d5b2
+#EXTINF:-1,Drama Sangat
+http://5.79.87.234:8278/Drama/playlist.m3u8?tid=16408533&tsum=9c30440ec4696b611ac2d5bf1fd39898
+#EXTINF:-1,Quan jia
+http://50.7.92.2:8278/quanjia_hero/playlist.m3u8?tid=10075889&tsum=b0e4afc7255fe95838319d6671c3bd89
+#EXTINF:-1,AOD Hero
+http://50.7.92.2:8278/astroaod_hero/playlist.m3u8?tid=15126695&tsum=2cc4de5f7b5913cde711252573a6c7f0
+#EXTINF:-1,HBO HD
+http://103.89.176.45:8278/Hbohd/playlist.m3u8?tid=16407224&tsum=dd9712c7faad0225ce930d85474c1312
+#EXTINF:-1,HBO HITS
+http://5.79.87.234:8278/Hbohits/playlist.m3u8?tid=10780865&tsum=01ce89f9a4b996cbc64143cb8d260ab7
+#EXTINF:-1,HBO FAMILY
+http://5.79.87.234:8278/Hbofamily/playlist.m3u8?tid=14401495&tsum=44c3dd925e2ec1c5ffea6591caa406be
+#EXTINF:-1,BLUE ANT EXTREME
+http://5.79.87.234:8278/Fxhd/playlist.m3u8?tid=11904908&tsum=0f9459b7f572081436eaffa43ea116bc
+#EXTINF:-1,FOX HD
+http://50.7.92.2:8278/Foxhd/playlist.m3u8?tid=13744395&tsum=fadaaa8eb721bb4688eb22567f7abe61
+#EXTINF:-1,FOX FAMILY HD
+http://50.7.92.2:8278/Foxfamily/playlist.m3u8?tid=13223832&tsum=f0e7b425eeaac4bf9ed874b3d8a5370a
+#EXTINF:-1,FOX ACTION MOVIES HD
+http://5.79.87.234:8278/Foxactionhd/playlist.m3u8?tid=14656802&tsum=8aa51ea6e11aec557ca18b84235ce8cd
+#EXTINF:-1,FOX MOVIES PREMIUM HD
+http://5.79.87.234:8278/Foxmovie/playlist.m3u8?tid=12222495&tsum=d0d8659db90bff8abea88fe13b4d41ba
+#EXTINF:-1,AXN HD
+http://5.79.87.234:8278/Axn/playlist.m3u8?tid=14693778&tsum=d5fc048f4da1dad2ec58196cdd49119f
+#EXTINF:-1,CINEMAX HD
+http://5.79.87.234:8278/Cinemax/playlist.m3u8?tid=15215624&tsum=ef20b1648c5b79c563f738810afd31de
+#EXTINF:-1,HISTORY HD
+http://5.79.87.234:8278/Historyhd/playlist.m3u8?tid=15639020&tsum=9101398d06962a105c588b78863025c6
+#EXTINF:-1,CRIME INVESTIGATION
+http://5.79.87.234:8278/CI/playlist.m3u8?tid=13764349&tsum=9f320c0c327270a4fa7cb168e7242060
+#EXTINF:-1,DISCOVERY HD
+http://5.79.87.234:8278/Discovery/playlist.m3u8?tid=18298474&tsum=d615ec695c21cffeb6e844eef8e3e1ae
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://5.79.87.234:8278/Natgeo/playlist.m3u8?tid=17238184&tsum=d383a2404e15bc756f920dca60957594
+#EXTINF:-1,NAT GEO PEOPLE
+http://5.79.87.234:8278/Natgeopeople/playlist.m3u8?tid=18153495&tsum=a7369e6299b1a69199dcde2dfab6aa10
+#EXTINF:-1,ANIMAL PLANET HD
+http://5.79.87.234:8278/Animalplanet/playlist.m3u8?tid=18813490&tsum=9c9ab57314910749530a06b63f906fa7
+#EXTINF:-1,Cartoon network
+http://5.79.87.234:8278/Cn/playlist.m3u8?tid=10005734&tsum=3a0e7548757f7af347ad8ef9bc8e4b65
+#EXTINF:-1,Nickelodeon
+http://5.79.87.234:8278/Nickelodeon/playlist.m3u8?tid=16476558&tsum=430ca5a82c0cebe8f7beca5cc04732dc
+#EXTINF:-1,Disney channel
+http://5.79.87.234:8278/Disneyxd/playlist.m3u8?tid=10006142&tsum=09ecafdffe71031061454cb4ef52b103
+#EXTINF:-1,Animax
+http://5.79.87.234:8278/Animaxhd/playlist.m3u8?tid=11396470&tsum=849ee2ee91175c5ec10aec2e7530a4a1
+#EXTINF:-1,TLC
+http://5.79.87.234:8278/Tlc/playlist.m3u8?tid=15644277&tsum=2da27abaab60dca511c63faf41443cc8
+#EXTINF:-1,AFC
+http://5.79.87.234:8278/Afc/playlist.m3u8?tid=16318482&tsum=aae3446ce0f40076ba00b2987b454be9
+#EXTINF:-1,Bein 1
+http://5.79.87.234:8278/bein1_pat/playlist.m3u8?tid=13728616&tsum=2f0d6ff5a1c1695892005d72b6eb2432
+#EXTINF:-1,Bein 2
+http://5.79.87.234:8278/bein2_pat/playlist.m3u8?tid=16595392&tsum=c7a174b5ad4086dcd8355123f6365990
+#EXTINF:-1,Bein 3
+http://212.8.243.195:8278/bein3_pat/playlist.m3u8?tid=12044957&tsum=bdcf244e2d2d9e5caad975fc2e18cd16
+#EXTINF:-1,Bein 4
+http://5.79.87.234:8278/bein4_pat/playlist.m3u8?tid=14829943&tsum=841a47f8899d6e83f7936ea5d0fafd22
+#EXTINF:-1,bt sports 1
+http://50.7.92.2:8278/bt1eu_pat/playlist.m3u8?tid=14132064&tsum=8193614270c7b685afe7b841c798dad3
+#EXTINF:-1,bt sports 2
+http://50.7.92.2:8278/bt2eu_pat/playlist.m3u8?tid=11251595&tsum=c93821ab06aabd70e1cc2631014dd4a1
+#EXTINF:-1,bt sports 3
+http://50.7.92.2:8278/bt3eu_pat/playlist.m3u8?tid=14966610&tsum=3ba2fdaa8e41436fae1603bd05d7cadb
+#EXTINF:-1,skynet sports 1
+http://5.79.87.234:8278/skynet1_pat/playlist.m3u8?tid=18571135&tsum=7d058cc9b7a20d60acafc8ee02574815
+#EXTINF:-1,skyney sports 2
+http://5.79.87.234:8278/skynet2_pat/playlist.m3u8?tid=14941212&tsum=71bfa0471721d2fcae1d4130815fbad3
+#EXTINF:-1,Skynet sports 3
+http://5.79.87.234:8278/skynet3_pat/playlist.m3u8?tid=15812492&tsum=93c78fe4e11df7dfed2ab57af7778b0f
+#EXTINF:-1,skynetsports hd
+http://5.79.87.234:8278/skynethd_pat/playlist.m3u8?tid=11291869&tsum=e1c0b682d5e979ff03aaa2f7bd37f50e
+#EXTINF:-1,NBA tv
+http://50.7.73.90:8278/nba_twn/playlist.m3u8?tid=12857714&tsum=bbfbc92170b24e369bee734993b7973c
+#EXTINF:-1,PTV sports
+http://50.7.73.90:8278/tensports_raj/playlist.m3u8?tid=15385939&tsum=d1c9f0de7e606be4b7a2711ba0c749ce
+#EXTINF:-1,Bein 11
+http://50.7.92.2:8278/bein11_raj/playlist.m3u8?tid=12037406&tsum=1baeed1649ee02c9bba8a2f6d8f68629
+#EXTINF:-1,Bein 12
+http://50.7.73.90:8278/bein12_hamid/playlist.m3u8?tid=15589804&tsum=f1320076069c36a03e3f7c7a9df03ddd
