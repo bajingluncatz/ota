@@ -11,9 +11,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png" group-title="KNOWLEDGE", HISTORY (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s3.aynaott.com/storage/be15ed692e22ad4b7dcb9d7251ce32a6" group-title="LIFESTYLE", HGTV (IHT)
-https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="NASIONAL", AL QURAN AL KAREEM
 https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
@@ -610,4 +607,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTS", Sportstars 4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS", HUB PREMIER 1 (Server 2) (Berat)
+https://7pal.short.gy/HPremier1
 
